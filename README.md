@@ -1,9 +1,8 @@
-# codeTest
 
-Python basics assessment
+# Python basics assessment
 
 main.py
 
-HTML/CSS assessment
+# HTML/CSS assessment
 
 home.html is the main page 
